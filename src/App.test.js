@@ -3,12 +3,12 @@ import App from './App'
 
 test('renders learn react link', () => {
 	render(<App />)
-	const linkElement = screen.getByText(/learn react/i)
+	const linkElement = screen.getByTestId('Link')
 	expect(linkElement).toBeInTheDocument()
 })
 
 test('URL is correct', () => {
 	render(<App />)
-	const linkElement = screen.getByText(/Search Stuff Securely/i)
+	const linkElement = screen.getByTestId('Link')
 	expect(linkElement.getAttribute('href')).toContain('duckduckgo.com')
 })
