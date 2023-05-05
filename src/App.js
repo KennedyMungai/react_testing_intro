@@ -15,7 +15,7 @@ function App() {
 					target='_blank'
 					rel='noopener noreferrer'
 				>
-					Search Stuff securely
+					Search Stuff Securely
 				</a>
 			</header>
 		</div>
