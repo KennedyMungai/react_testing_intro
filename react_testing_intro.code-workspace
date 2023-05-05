@@ -6,11 +6,24 @@
 	],
 	"settings": {
 		"cSpell.words": [
+			"appium",
+			"browserstack",
+			"chromedriver",
 			"duckduckgo",
+			"informations",
+			"initialise",
+			"initialising",
+			"microsoftedge",
 			"noopener",
 			"noreferrer",
+			"specfile",
+			"specfiles",
+			"sumologic",
 			"testid",
-			"ultimateqa"
+			"ultimateqa",
+			"waitfor",
+			"wdio",
+			"webdriverio"
 		]
 	}
 }
