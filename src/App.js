@@ -14,6 +14,7 @@ function App() {
 					href='https://duckduckgo.com'
 					target='_blank'
 					rel='noopener noreferrer'
+					data-testid='Link'
 				>
 					Search Stuff Securely
 				</a>
